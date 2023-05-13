@@ -13,3 +13,4 @@ npm install
 - Bu kadar bot hazır.
 
 Yardım/Destek İçin [Discord Sunucumuza](https://discord.gg/luppux) gelebilirsiniz. İyi Kullanımlar.
+![image](https://github.com/luluwux/Basic-V14-Invite/assets/87658293/e7fd57cf-b4d4-4a96-85bc-6c78dc501c1a)
